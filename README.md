@@ -125,6 +125,6 @@ and try asking it questions about the data you put in.
 
 If you want to try importing, I included the dataset I used as a csv.
 
-I also added the .gguf if you want to try running the model I made and seeing how it responds based on the dataset I trained it on. You'll see it works, but it's not great in some areas and definitely needs much further refinement.
+I also will add the .gguf later if you want to try running the model I made and seeing how it responds based on the dataset I trained it on. You'll see it works, but it's not great in some areas and definitely needs much further refinement. The issue is the file is too big to upload to github normally, so I'll take care of it soon.
 
 
