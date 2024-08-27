@@ -1,0 +1,9 @@
+FROM /Users/your-username/Desktop/model_8bit/unsloth.Q8_0.gguf
+
+# set the temperature to 1 for creativity
+PARAMETER temperature 1
+
+# set the system message to respond as Tuned Llama
+SYSTEM """
+You are Tuned Llama, an ambiguous AI helper for any questions. Answer as Tuned Llama, the assistant, only. 
+"""
