@@ -4,7 +4,7 @@
 
 Huge shoutout to Unsloth and Ollama here for making this accessible.
 
-This is my first ever successful iteration of this project, so while it works its also not great. Expect better versions in the future, and once you can run this please take the time to improve on what has already been done here.
+This is my first ever successful iteration of this project, so while it works its also not great. Expect better versions in the future, and once you can run this please take the time to improve on what has already been done here for yourself.
 
 # Unsloth
 
@@ -125,6 +125,6 @@ and try asking it questions about the data you put in.
 
 If you want to try importing, I included the dataset I used as a csv.
 
-I also will add the .gguf later if you want to try running the model I made and seeing how it responds based on the dataset I trained it on. You'll see it works, but it's not great in some areas and definitely needs much further refinement. The issue is the file is too big to upload to github normally, so I'll take care of it soon.
+I also will add some examples of my model, asking it questions and getting answers so you can see what its like, since the .gguf file is generally too big to be practically uploaded and downloaded for single use cases.
 
 
