@@ -121,6 +121,10 @@ and try asking it questions about the data you put in.
 
 # Good Luck!
 
+-----------------------------------
 
+If you want to try importing, I included the dataset I used as a csv.
+
+I also added the .gguf if you want to try running the model I made and seeing how it responds based on the dataset I trained it on. You'll see it works, but it's not great in some areas and definitely needs much further refinement.
 
 
