@@ -127,4 +127,4 @@ If you want to try importing, I included the dataset I used as a csv.
 
 I also will add some examples of my model, asking it questions and getting answers so you can see what its like, since the .gguf file is generally too big to be practically uploaded and downloaded for single use cases.
 
-
+Check example usage for screenshots of the model's response to prompts!
